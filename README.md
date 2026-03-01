@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone, I'm Lailaa 👋
 
 <!--
 **wjylaiilaaa/wjylaiilaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 I'm a student at ITB Asia Malang
+- 🌱 I’m currently learning Python Programming Language
+- 🎥 Exploring the world of video editing 
+- 🌱 Passionate about technology, creativity, and continuous improvement.
+- ⚡ Fun fact: I enjoy bitter coffee ☕, spicy food 🌶️, and anything with avocado 🥑
